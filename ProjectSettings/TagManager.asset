@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - ground
+  - Coin
+  - Rocket
+  - coin1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Ground
+  - Collector
+  - Items
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2752659907
+    locked: 0
+  - name: Ground
+    uniqueID: 1966153893
+    locked: 0
+  - name: Items
+    uniqueID: 3573910789
+    locked: 0
+  - name: Player
+    uniqueID: 709982955
+    locked: 0
+  - name: Canvas
+    uniqueID: 3188444367
+    locked: 0
